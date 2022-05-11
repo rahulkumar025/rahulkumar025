@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rahul Kumar
+- 👀 I’m interested in web development
+- 🌱 I’m currently pursuing my b tech degree from Chandigarh University
+- 💞️ I’m looking to collaborate with someone who guide me in coding and in learning different language like c, c++ and python
+- 📫 How to reach me .. Simply mail me at raorahul25122002@gmail.com
